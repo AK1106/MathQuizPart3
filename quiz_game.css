@@ -1,0 +1,20 @@
+#body_background {
+    background-color: brown;
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: center;
+    margin-left: 300PX;
+    margin-right: 300px;
+}
+
+#sendbutton
+{
+    margin-top: 20px;
+}
